@@ -1,0 +1,5 @@
+deepspeech-0.6.1-models/
+node_modules/
+audio/*.mp3
+audio/*.mp3.asd
+audio/*.wav
